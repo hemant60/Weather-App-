@@ -1,7 +1,3 @@
-# Weather-App-
-Here’s a clean and professional `README.md` for your **Weather App using API** project:
-
----
 
 # 🌤️ Weather App
 
@@ -22,7 +18,7 @@ A simple and user-friendly weather application that fetches real-time weather da
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript  
-- **API:** [OpenWeatherMap API](https://openweathermap.org/api) *(or any other used)*
+- **API:** [OpenWeatherMap API](https://openweathermap.org/api) 
 
 ---
 
@@ -30,8 +26,8 @@ A simple and user-friendly weather application that fetches real-time weather da
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/your-username/weather-app.git
-   cd weather-app
+   git clone https://github.com/hemant60/Weather-app.git
+   cd Weather-app
    ```
 
 2. Open `index.html` in your browser
@@ -68,7 +64,7 @@ const apiKey = 'YOUR_API_KEY';
 ## 🙌 Acknowledgements
 
 - [OpenWeatherMap](https://openweathermap.org/)
-- [Font Awesome](https://fontawesome.com/) (if icons used)
+- [Font Awesome](https://fontawesome.com/) 
 
 ---
 
@@ -80,4 +76,4 @@ const apiKey = 'YOUR_API_KEY';
 
 ---
 
-Let me know if you'd like to add screenshots, host it online, or connect it to a mobile app version!
+
